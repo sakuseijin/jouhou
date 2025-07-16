@@ -1,0 +1,46 @@
+body {
+  font-family: "游ゴシック", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  color: #333;
+}
+
+header {
+  background-color: #cce7ff;
+  padding: 2em;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: #3399cc;
+  margin: 0;
+  padding: 1em;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  padding: 2em;
+}
+
+section h2 {
+  color: #3399cc;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #cce7ff;
+}
